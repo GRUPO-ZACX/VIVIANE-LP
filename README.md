@@ -62,6 +62,12 @@ Para GitHub Pages, selecione a publicação pela branch que recebeu os arquivos 
 
 O `.gitignore` exclui dependências, referências do Figma, conferências visuais, arquivos temporários, logs e arquivos de ambiente. Evite enviar `node_modules/`, `.figma/`, `.build/` e `qa/` manualmente pela interface do GitHub. O ZIP de entrega já exclui essas pastas.
 
+## Vercel
+
+O arquivo `vercel.json` configura a instalação com `npm ci`, a compilação com `npm run build` e a pasta de publicação `dist`. O build gera essa pasta com as três páginas, imagens, fontes, estilos e JavaScript. Código-fonte, dependências e arquivos de conferência ficam fora da publicação.
+
+Envie `vercel.json` e a versão atual de `scripts/build.mjs` junto com os demais arquivos do projeto para o GitHub. Na Vercel, a pasta raiz do projeto deve ser a que contém `package.json` e `vercel.json`; o preset é **Other**. Depois, execute um novo deploy. Não é necessário enviar `dist/` ao GitHub: ela é gerada durante o build. Referência: https://vercel.com/docs/project-configuration/vercel-json
+
 ## Otimização
 
 - Fotos em WebP, preservando a proporção, orientação e os recortes aprovados. Fotos acima de 2560 px foram reduzidas proporcionalmente para evitar downloads desnecessários. Logos com transparência recebem compressão sem perda.

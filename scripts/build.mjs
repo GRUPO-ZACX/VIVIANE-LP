@@ -45,4 +45,12 @@ for(const name of Object.keys(titles)){
 const base=await fs.readFile(path.join(root,'src/base.css'),'utf8');
 await fs.writeFile(path.join(root,'styles.css'),(await transform(utilities(all)+'\n'+base,{loader:'css',minify:true})).code);
 await fs.writeFile(path.join(root,'app.js'),(await transform(await fs.readFile(path.join(root,'src/app.js'),'utf8'),{loader:'js',minify:true,target:'es2020'})).code);
-console.log('Prontas: index.html, catalogo.html, avaliacoes.html — HTML, CSS e JavaScript locais.');
+// A hospedagem recebe apenas os arquivos usados pelo navegador.
+const output=path.join(root,'dist');
+await fs.rm(output,{recursive:true,force:true});
+await fs.mkdir(output,{recursive:true});
+for(const file of ['index.html','catalogo.html','avaliacoes.html','styles.css','app.js','.nojekyll']){
+ await fs.copyFile(path.join(root,file),path.join(output,file));
+}
+await fs.cp(path.join(root,'assets'),path.join(output,'assets'),{recursive:true});
+console.log('Prontas: index.html, catalogo.html, avaliacoes.html — arquivos locais e pasta dist/ para publicação.');
