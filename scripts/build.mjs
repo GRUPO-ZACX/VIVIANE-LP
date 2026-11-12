@@ -49,8 +49,10 @@ await fs.writeFile(path.join(root,'app.js'),(await transform(await fs.readFile(p
 const output=path.join(root,'dist');
 await fs.rm(output,{recursive:true,force:true});
 await fs.mkdir(output,{recursive:true});
-for(const file of ['index.html','catalogo.html','avaliacoes.html','styles.css','app.js','.nojekyll']){
+for(const file of ['index.html','catalogo.html','avaliacoes.html','styles.css','app.js']){
  await fs.copyFile(path.join(root,file),path.join(output,file));
 }
+// O envio pelo navegador pode omitir arquivos ocultos; gere este marcador aqui.
+await fs.writeFile(path.join(output,'.nojekyll'),'');
 await fs.cp(path.join(root,'assets'),path.join(output,'assets'),{recursive:true});
 console.log('Prontas: index.html, catalogo.html, avaliacoes.html — arquivos locais e pasta dist/ para publicação.');
