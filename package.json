@@ -1,0 +1,16 @@
+{
+  "name": "lp-viviane-bondi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LP Viviane Bondi — implementação local fiel ao Figma",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

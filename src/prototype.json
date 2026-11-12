@@ -1,0 +1,3983 @@
+{
+  "143:307": {
+    "id": "143:307",
+    "name": "Abrir menu",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "145:498",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "143:483": {
+    "id": "143:483",
+    "name": "Avaliações Google",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "https://www.google.com/maps/search/?api=1&query=Viviane+Bondi&query_place_id=ChIJc1dcCQUzWpMRFlwbKB00bUY",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "143:490": {
+    "id": "143:490",
+    "name": "Navegar / Início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:448",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "143:491": {
+    "id": "143:491",
+    "name": "Navegar / Avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "143:305",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "143:492": {
+    "id": "143:492",
+    "name": "Navegar / Catálogo de Procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:304",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "143:493": {
+    "id": "143:493",
+    "name": "Contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "142:307": {
+    "id": "142:307",
+    "name": "Abrir menu",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "145:498",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:313": {
+    "id": "142:313",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:320",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:316": {
+    "id": "142:316",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:318",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:335": {
+    "id": "142:335",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:340",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:338": {
+    "id": "142:338",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:340",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:357": {
+    "id": "142:357",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:362",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:360": {
+    "id": "142:360",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:362",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:379": {
+    "id": "142:379",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:384",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:382": {
+    "id": "142:382",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:384",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:401": {
+    "id": "142:401",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:406",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:404": {
+    "id": "142:404",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:406",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:423": {
+    "id": "142:423",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:426": {
+    "id": "142:426",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:445": {
+    "id": "142:445",
+    "name": "Fios Aptos / fotografia",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:450",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:448": {
+    "id": "142:448",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:450",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:558": {
+    "id": "142:558",
+    "name": "Navegar / Início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:448",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:559": {
+    "id": "142:559",
+    "name": "Navegar / Avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "143:304",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:560": {
+    "id": "142:560",
+    "name": "Navegar / Catálogo de Procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:305",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "142:561": {
+    "id": "142:561",
+    "name": "Contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:95": {
+    "id": "116:95",
+    "name": "Voltar / início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:105": {
+    "id": "116:105",
+    "name": "CTA / Escreva uma avaliação",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "https://www.google.com/maps/search/?api=1&query=Viviane+Bondi&query_place_id=ChIJc1dcCQUzWpMRFlwbKB00bUY",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:195": {
+    "id": "116:195",
+    "name": "CTA / Agende sua avaliação",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:201": {
+    "id": "116:201",
+    "name": "Marca",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:207": {
+    "id": "116:207",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:338",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "116:208": {
+    "id": "116:208",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:356",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "116:209": {
+    "id": "116:209",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:374",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "116:210": {
+    "id": "116:210",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:392",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "116:211": {
+    "id": "116:211",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:410",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "116:212": {
+    "id": "116:212",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "116:213": {
+    "id": "116:213",
+    "name": "Link / todos procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "117:160",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:216": {
+    "id": "116:216",
+    "name": "Link / início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:218": {
+    "id": "116:218",
+    "name": "Link / galeria",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:219": {
+    "id": "116:219",
+    "name": "Link / FAQ",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "116:220": {
+    "id": "116:220",
+    "name": "Link / contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "129:308": {
+    "id": "129:308",
+    "name": "Início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:4",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "129:309": {
+    "id": "129:309",
+    "name": "Avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "116:86",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "129:310": {
+    "id": "129:310",
+    "name": "Catálogo de Procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "117:160",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "129:311": {
+    "id": "129:311",
+    "name": "Galeria",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:546",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "129:312": {
+    "id": "129:312",
+    "name": "Contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "105:54",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "129:313": {
+    "id": "129:313",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "81:301": {
+    "id": "81:301",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:279",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "81:542": {
+    "id": "81:542",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "116:86",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "81:429": {
+    "id": "81:429",
+    "name": "Artigo / Harmonização Protocolo Natural Lifting",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:338",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I81:429;81:380": {
+    "id": "I81:429;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:338",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "81:437": {
+    "id": "81:437",
+    "name": "Artigo / Revitalização de perfil feminino",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:356",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I81:437;81:380": {
+    "id": "I81:437;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:356",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "81:444": {
+    "id": "81:444",
+    "name": "Artigo / Lábios",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:374",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I81:444;81:380": {
+    "id": "I81:444;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:374",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "81:451": {
+    "id": "81:451",
+    "name": "Artigo / Natural Lifting",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:392",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I81:451;81:380": {
+    "id": "I81:451;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:392",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "81:458": {
+    "id": "81:458",
+    "name": "Artigo / Rinomodelação",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:410",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I81:458;81:380": {
+    "id": "I81:458;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:410",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "81:465": {
+    "id": "81:465",
+    "name": "Artigo / Fios Aptos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I81:465;81:380": {
+    "id": "I81:465;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "81:536": {
+    "id": "81:536",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "117:160",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "115:107": {
+    "id": "115:107",
+    "name": "CTA / Fale com a clínica",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "115:126": {
+    "id": "115:126",
+    "name": "FAQ / 01",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "115:111",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.2800000011920929
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:132": {
+    "id": "115:132",
+    "name": "FAQ / 02",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "115:117",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.2800000011920929
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:138": {
+    "id": "115:138",
+    "name": "FAQ / 03",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "115:117",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.2800000011920929
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:144": {
+    "id": "115:144",
+    "name": "FAQ / 04",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "115:117",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.2800000011920929
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:150": {
+    "id": "115:150",
+    "name": "FAQ / 05",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "115:117",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.2800000011920929
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:156": {
+    "id": "115:156",
+    "name": "FAQ / 06",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "115:117",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.2800000011920929
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "78:2966": {
+    "id": "78:2966",
+    "name": "Início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:4",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "78:2967": {
+    "id": "78:2967",
+    "name": "Avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "116:86",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "78:2968": {
+    "id": "78:2968",
+    "name": "Catálogo de Procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "117:160",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "78:2969": {
+    "id": "78:2969",
+    "name": "Galeria",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:546",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "78:2970": {
+    "id": "78:2970",
+    "name": "Contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "105:54",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "81:167": {
+    "id": "81:167",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "115:60": {
+    "id": "115:60",
+    "name": "CTA / Agende sua consulta",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "115:73": {
+    "id": "115:73",
+    "name": "Marca",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:4",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:79": {
+    "id": "115:79",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:338",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:80": {
+    "id": "115:80",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:356",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:81": {
+    "id": "115:81",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:374",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:82": {
+    "id": "115:82",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:392",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:83": {
+    "id": "115:83",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:410",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:84": {
+    "id": "115:84",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:85": {
+    "id": "115:85",
+    "name": "Link / todos procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "117:160",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "115:88": {
+    "id": "115:88",
+    "name": "Link / início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:4",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:89": {
+    "id": "115:89",
+    "name": "Link / avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "116:86",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "115:90": {
+    "id": "115:90",
+    "name": "Link / galeria",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:546",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:91": {
+    "id": "115:91",
+    "name": "Link / FAQ",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "115:102",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:92": {
+    "id": "115:92",
+    "name": "Link / contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "105:54",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "115:100": {
+    "id": "115:100",
+    "name": "Voltar ao topo",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:4",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:451": {
+    "id": "144:451",
+    "name": "Abrir menu",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "145:498",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:456": {
+    "id": "144:456",
+    "name": "Agendamento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "144:483": {
+    "id": "144:483",
+    "name": "Ver avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "143:304",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:489": {
+    "id": "144:489",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:340",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:492": {
+    "id": "144:492",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:340",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:495": {
+    "id": "144:495",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:362",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:498": {
+    "id": "144:498",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:362",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:501": {
+    "id": "144:501",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:384",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:504": {
+    "id": "144:504",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:384",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:507": {
+    "id": "144:507",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:406",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:510": {
+    "id": "144:510",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:406",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:513": {
+    "id": "144:513",
+    "name": "Imagem do procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:516": {
+    "id": "144:516",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:519": {
+    "id": "144:519",
+    "name": "Fios Aptos / fotografia",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:450",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:522": {
+    "id": "144:522",
+    "name": "Entender Procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:450",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:524": {
+    "id": "144:524",
+    "name": "Ver catálogo",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:304",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:550": {
+    "id": "144:550",
+    "name": "FAQ mobile / 1",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:542",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:556": {
+    "id": "144:556",
+    "name": "FAQ mobile / 2",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:542",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:562": {
+    "id": "144:562",
+    "name": "FAQ mobile / 3",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:542",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:568": {
+    "id": "144:568",
+    "name": "FAQ mobile / 4",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:542",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:574": {
+    "id": "144:574",
+    "name": "FAQ mobile / 5",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:542",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:580": {
+    "id": "144:580",
+    "name": "FAQ mobile / 6",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:542",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:591": {
+    "id": "144:591",
+    "name": "Agendamento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "144:598": {
+    "id": "144:598",
+    "name": "Navegar / Início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "144:449",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:599": {
+    "id": "144:599",
+    "name": "Navegar / Avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "143:304",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:600": {
+    "id": "144:600",
+    "name": "Navegar / Catálogo de Procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "142:304",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.25
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "144:601": {
+    "id": "144:601",
+    "name": "Contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "129:329": {
+    "id": "129:329",
+    "name": "Início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:4",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "129:330": {
+    "id": "129:330",
+    "name": "Avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "116:86",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "129:331": {
+    "id": "129:331",
+    "name": "Catálogo de Procedimentos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "117:160",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "129:332": {
+    "id": "129:332",
+    "name": "Galeria",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:546",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "129:333": {
+    "id": "129:333",
+    "name": "Contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "105:54",
+            "navigation": "SCROLL_TO",
+            "transition": {
+              "type": "SCROLL_ANIMATE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "129:334": {
+    "id": "129:334",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_HOVER"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "81:161",
+            "navigation": "CHANGE_TO",
+            "transition": {
+              "type": "SMART_ANIMATE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.18000000715255737
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      },
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "URL",
+            "url": "tel:+5561991817984",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  "117:167": {
+    "id": "117:167",
+    "name": "Voltar / início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "125:311": {
+    "id": "125:311",
+    "name": "Destaque / fotografia",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:320",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "125:316": {
+    "id": "125:316",
+    "name": "CTA / Ler artigo ↗",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:320",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:186": {
+    "id": "117:186",
+    "name": "Artigo / Harmonização Protocolo Natural Lifting",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:338",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I117:186;81:380": {
+    "id": "I117:186;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:338",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:197": {
+    "id": "117:197",
+    "name": "Artigo / Revitalização de perfil feminino",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:356",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I117:197;81:380": {
+    "id": "I117:197;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:356",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:209": {
+    "id": "117:209",
+    "name": "Artigo / Lábios",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:374",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I117:209;81:380": {
+    "id": "I117:209;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:374",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:220": {
+    "id": "117:220",
+    "name": "Artigo / Natural Lifting",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:392",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I117:220;81:380": {
+    "id": "I117:220;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:392",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:231": {
+    "id": "117:231",
+    "name": "Artigo / Rinomodelação",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:410",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I117:231;81:380": {
+    "id": "I117:231;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:410",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:243": {
+    "id": "117:243",
+    "name": "Artigo / Fios Aptos",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "I117:243;81:380": {
+    "id": "I117:243;81:380",
+    "name": "BUTTON",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:307": {
+    "id": "117:307",
+    "name": "Marca",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "117:313": {
+    "id": "117:313",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:338",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:314": {
+    "id": "117:314",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:356",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:315": {
+    "id": "117:315",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:374",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:316": {
+    "id": "117:316",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:392",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:317": {
+    "id": "117:317",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:410",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:318": {
+    "id": "117:318",
+    "name": "Link / procedimento",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "138:428",
+            "navigation": "OVERLAY",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_OUT"
+              },
+              "duration": 0.2199999988079071
+            },
+            "resetVideoPosition": false
+          }
+        ]
+      }
+    ]
+  },
+  "117:322": {
+    "id": "117:322",
+    "name": "Link / início",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "117:323": {
+    "id": "117:323",
+    "name": "Link / avaliações",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "116:86",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "117:324": {
+    "id": "117:324",
+    "name": "Link / galeria",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "117:325": {
+    "id": "117:325",
+    "name": "Link / FAQ",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  },
+  "117:326": {
+    "id": "117:326",
+    "name": "Link / contato",
+    "r": [
+      {
+        "t": {
+          "type": "ON_CLICK"
+        },
+        "a": [
+          {
+            "type": "NODE",
+            "destinationId": "7:8",
+            "navigation": "NAVIGATE",
+            "transition": {
+              "type": "DISSOLVE",
+              "easing": {
+                "type": "EASE_IN_AND_OUT"
+              },
+              "duration": 0.3199999928474426
+            },
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          }
+        ]
+      }
+    ]
+  }
+}

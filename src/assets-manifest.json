@@ -1,0 +1,341 @@
+[
+  {
+    "screen": "116-86",
+    "constant": "imgFrame10",
+    "file": "./assets/images/116-86-imgFrame10.svg",
+    "sha256": "3ffa86b54a7165e29716a49b6c55748616168df58f871e78f985fa7360f6886c"
+  },
+  {
+    "screen": "116-86",
+    "constant": "imgTituloEAvaliacaoGoogle",
+    "file": "./assets/images/116-86-imgTituloEAvaliacaoGoogle.webp",
+    "sha256": "b72308fe312ee30679c07926f8679257816fccecc4966d1e1166032548cc1e9f"
+  },
+  {
+    "screen": "116-86",
+    "constant": "imgLogoOriginal",
+    "file": "./assets/images/116-86-imgLogoOriginal.webp",
+    "sha256": "6193a1cc537f49e7e0cc64e413dd7b1e7f7a55031bdafb30e4aaafffb8533c2d"
+  },
+  {
+    "screen": "116-86",
+    "constant": "imgLogoOriginal1",
+    "file": "./assets/images/116-86-imgLogoOriginal1.webp",
+    "sha256": "3819c75b1f63e2d190dfe9346f348d9c0e410902fda4a7ad9c0e421097f003bb"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgLogoOriginal",
+    "file": "./assets/images/116-86-imgLogoOriginal.webp",
+    "sha256": "6193a1cc537f49e7e0cc64e413dd7b1e7f7a55031bdafb30e4aaafffb8533c2d"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgLogoOriginal1",
+    "file": "./assets/images/116-86-imgLogoOriginal1.webp",
+    "sha256": "3819c75b1f63e2d190dfe9346f348d9c0e410902fda4a7ad9c0e421097f003bb"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgDestaqueFotografia",
+    "file": "./assets/images/117-160-imgDestaqueFotografia.webp",
+    "sha256": "e01bc25e047144f5bac90073c12ec38b358246114c2c02704d8fe20b2a6fc281"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgRectangle1",
+    "file": "./assets/images/117-160-imgRectangle1.webp",
+    "sha256": "472428ab74ee7cc53237bb69010ecba166e43527f763e404372139196d2cd511"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgRectangle2",
+    "file": "./assets/images/117-160-imgRectangle2.webp",
+    "sha256": "39c8e17979e14a4d67762a2e9f2408f5bf9cf6433b81b73e08d057d729e9bbbf"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgRectangle3",
+    "file": "./assets/images/117-160-imgRectangle3.webp",
+    "sha256": "e9dfc97c6d559c1d83743acdd13d52e5d9ffaf1349f20a5056093374db2a8b01"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgRectangle4",
+    "file": "./assets/images/117-160-imgRectangle4.webp",
+    "sha256": "7119f5c8e35420455b5eb19752c93a2ab8cc29bfcfd7f6119f569013b2d04227"
+  },
+  {
+    "screen": "117-160",
+    "constant": "imgRectangle5",
+    "file": "./assets/images/117-160-imgRectangle5.webp",
+    "sha256": "60244c0ab8f893004a970304591d410e7ff07c5a1063b729e126616dcb18d019"
+  },
+  {
+    "screen": "138-320",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgDestaqueFotografia.webp",
+    "sha256": "e01bc25e047144f5bac90073c12ec38b358246114c2c02704d8fe20b2a6fc281"
+  },
+  {
+    "screen": "138-338",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle1.webp",
+    "sha256": "472428ab74ee7cc53237bb69010ecba166e43527f763e404372139196d2cd511"
+  },
+  {
+    "screen": "138-356",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle2.webp",
+    "sha256": "39c8e17979e14a4d67762a2e9f2408f5bf9cf6433b81b73e08d057d729e9bbbf"
+  },
+  {
+    "screen": "138-374",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle3.webp",
+    "sha256": "e9dfc97c6d559c1d83743acdd13d52e5d9ffaf1349f20a5056093374db2a8b01"
+  },
+  {
+    "screen": "138-392",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle4.webp",
+    "sha256": "7119f5c8e35420455b5eb19752c93a2ab8cc29bfcfd7f6119f569013b2d04227"
+  },
+  {
+    "screen": "138-410",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle5.webp",
+    "sha256": "60244c0ab8f893004a970304591d410e7ff07c5a1063b729e126616dcb18d019"
+  },
+  {
+    "screen": "142-304",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgDestaqueFotografia.webp",
+    "sha256": "e01bc25e047144f5bac90073c12ec38b358246114c2c02704d8fe20b2a6fc281"
+  },
+  {
+    "screen": "142-304",
+    "constant": "imgImagemDoProcedimento1",
+    "file": "./assets/images/117-160-imgRectangle1.webp",
+    "sha256": "472428ab74ee7cc53237bb69010ecba166e43527f763e404372139196d2cd511"
+  },
+  {
+    "screen": "142-304",
+    "constant": "imgImagemDoProcedimento2",
+    "file": "./assets/images/117-160-imgRectangle2.webp",
+    "sha256": "39c8e17979e14a4d67762a2e9f2408f5bf9cf6433b81b73e08d057d729e9bbbf"
+  },
+  {
+    "screen": "142-304",
+    "constant": "imgImagemDoProcedimento3",
+    "file": "./assets/images/117-160-imgRectangle3.webp",
+    "sha256": "e9dfc97c6d559c1d83743acdd13d52e5d9ffaf1349f20a5056093374db2a8b01"
+  },
+  {
+    "screen": "142-304",
+    "constant": "imgImagemDoProcedimento4",
+    "file": "./assets/images/117-160-imgRectangle4.webp",
+    "sha256": "7119f5c8e35420455b5eb19752c93a2ab8cc29bfcfd7f6119f569013b2d04227"
+  },
+  {
+    "screen": "142-304",
+    "constant": "imgImagemDoProcedimento5",
+    "file": "./assets/images/117-160-imgRectangle5.webp",
+    "sha256": "60244c0ab8f893004a970304591d410e7ff07c5a1063b729e126616dcb18d019"
+  },
+  {
+    "screen": "142-318",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgDestaqueFotografia.webp",
+    "sha256": "e01bc25e047144f5bac90073c12ec38b358246114c2c02704d8fe20b2a6fc281"
+  },
+  {
+    "screen": "142-340",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle1.webp",
+    "sha256": "472428ab74ee7cc53237bb69010ecba166e43527f763e404372139196d2cd511"
+  },
+  {
+    "screen": "142-362",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle2.webp",
+    "sha256": "39c8e17979e14a4d67762a2e9f2408f5bf9cf6433b81b73e08d057d729e9bbbf"
+  },
+  {
+    "screen": "142-384",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle3.webp",
+    "sha256": "e9dfc97c6d559c1d83743acdd13d52e5d9ffaf1349f20a5056093374db2a8b01"
+  },
+  {
+    "screen": "142-406",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle4.webp",
+    "sha256": "7119f5c8e35420455b5eb19752c93a2ab8cc29bfcfd7f6119f569013b2d04227"
+  },
+  {
+    "screen": "142-428",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle5.webp",
+    "sha256": "60244c0ab8f893004a970304591d410e7ff07c5a1063b729e126616dcb18d019"
+  },
+  {
+    "screen": "143-304",
+    "constant": "imgApresentacao",
+    "file": "./assets/images/116-86-imgTituloEAvaliacaoGoogle.webp",
+    "sha256": "b72308fe312ee30679c07926f8679257816fccecc4966d1e1166032548cc1e9f"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgInicioMobile",
+    "file": "./assets/images/144-448-imgInicioMobile.webp",
+    "sha256": "7e819361e4f9e42c646b1341ae0bee1faa1a916d205bfd865c4ae6d25e7908b9"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgResultadoAntesEDepois",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois.webp",
+    "sha256": "b87dff64e20c85a2e5c089947ee383d4b7310aac918f1f3ada02e3f05dcf5eb4"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgResultadoAntesEDepois1",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois1.webp",
+    "sha256": "7f4bcf1ec085852d7605f0afe72ac4d991bb255a9c085d91cbe9f59fa4cb0d61"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgResultadoAntesEDepois2",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois2.webp",
+    "sha256": "cb8468afbebcb07d7d8654062194182c4ce5f43d9ee8c7985d5564325832e65c"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgResultadoAntesEDepois3",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois3.webp",
+    "sha256": "dc0d3ed7a810ef0caa570e7102f66430552d84422cd49219864f298de80508ef"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgImagemDoProcedimento",
+    "file": "./assets/images/117-160-imgRectangle1.webp",
+    "sha256": "472428ab74ee7cc53237bb69010ecba166e43527f763e404372139196d2cd511"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgImagemDoProcedimento1",
+    "file": "./assets/images/117-160-imgRectangle2.webp",
+    "sha256": "39c8e17979e14a4d67762a2e9f2408f5bf9cf6433b81b73e08d057d729e9bbbf"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgImagemDoProcedimento2",
+    "file": "./assets/images/117-160-imgRectangle3.webp",
+    "sha256": "e9dfc97c6d559c1d83743acdd13d52e5d9ffaf1349f20a5056093374db2a8b01"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgImagemDoProcedimento3",
+    "file": "./assets/images/117-160-imgRectangle4.webp",
+    "sha256": "7119f5c8e35420455b5eb19752c93a2ab8cc29bfcfd7f6119f569013b2d04227"
+  },
+  {
+    "screen": "144-448",
+    "constant": "imgImagemDoProcedimento4",
+    "file": "./assets/images/117-160-imgRectangle5.webp",
+    "sha256": "60244c0ab8f893004a970304591d410e7ff07c5a1063b729e126616dcb18d019"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgHome",
+    "file": "./assets/images/7-8-imgHome.webp",
+    "sha256": "67ad76e63ebb2cb891c66ecf977cbd5f60550c867619d09a1974a93021994028"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgHome1",
+    "file": "./assets/images/116-86-imgLogoOriginal1.webp",
+    "sha256": "3819c75b1f63e2d190dfe9346f348d9c0e410902fda4a7ad9c0e421097f003bb"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle1",
+    "file": "./assets/images/117-160-imgRectangle1.webp",
+    "sha256": "472428ab74ee7cc53237bb69010ecba166e43527f763e404372139196d2cd511"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle2",
+    "file": "./assets/images/117-160-imgRectangle2.webp",
+    "sha256": "39c8e17979e14a4d67762a2e9f2408f5bf9cf6433b81b73e08d057d729e9bbbf"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle3",
+    "file": "./assets/images/117-160-imgRectangle3.webp",
+    "sha256": "e9dfc97c6d559c1d83743acdd13d52e5d9ffaf1349f20a5056093374db2a8b01"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle4",
+    "file": "./assets/images/117-160-imgRectangle4.webp",
+    "sha256": "7119f5c8e35420455b5eb19752c93a2ab8cc29bfcfd7f6119f569013b2d04227"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle5",
+    "file": "./assets/images/117-160-imgRectangle5.webp",
+    "sha256": "60244c0ab8f893004a970304591d410e7ff07c5a1063b729e126616dcb18d019"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle6",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois.webp",
+    "sha256": "b87dff64e20c85a2e5c089947ee383d4b7310aac918f1f3ada02e3f05dcf5eb4"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle7",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois1.webp",
+    "sha256": "7f4bcf1ec085852d7605f0afe72ac4d991bb255a9c085d91cbe9f59fa4cb0d61"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle8",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois2.webp",
+    "sha256": "cb8468afbebcb07d7d8654062194182c4ce5f43d9ee8c7985d5564325832e65c"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgRectangle9",
+    "file": "./assets/images/144-448-imgResultadoAntesEDepois3.webp",
+    "sha256": "dc0d3ed7a810ef0caa570e7102f66430552d84422cd49219864f298de80508ef"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgLogoOriginal",
+    "file": "./assets/images/116-86-imgLogoOriginal.webp",
+    "sha256": "6193a1cc537f49e7e0cc64e413dd7b1e7f7a55031bdafb30e4aaafffb8533c2d"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgFrame3",
+    "file": "./assets/images/7-8-imgFrame3.svg",
+    "sha256": "7e68034e3a65c5a5e32aa89902d7b9a159e46bc7b056b0d7f26c06ef12f045f7"
+  },
+  {
+    "screen": "7-8",
+    "constant": "imgLucideStar",
+    "file": "./assets/images/7-8-imgLucideStar.svg",
+    "sha256": "771f068a6aabac4c23035a2d3ababa6d8362dd32b4bdf69459428fb62f61d8f0"
+  },
+  {
+    "screen": "Fios Aptos — home, catálogo e detalhes",
+    "constant": "fotoRosto",
+    "file": "./assets/images/fios-aptos-rosto.webp",
+    "sha256": "fbb0e7e38312d079f0249b07b5b1e5d000a0eb3378259300e5bf5fed0114f735",
+    "source": "https://photos.icloud.com/shared/album/0e85h0ewe9zIk4O3v5hcgZ0qw",
+    "original": "IMG_3757.JPG",
+    "note": "Foto de rosto escolhida a pedido do usuário; sem confirmação do procedimento retratado."
+  }
+]
